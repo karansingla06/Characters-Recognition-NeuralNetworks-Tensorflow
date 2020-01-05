@@ -1,1 +1,1 @@
-Project to recognize handwritten characters using neural networks and tensorflow with Emnist dataset. 
+Implementation of an Artificial Neural Network to recognize handwritten text using tensorflow and opencv with EMNIST "byclass" dataset. 
